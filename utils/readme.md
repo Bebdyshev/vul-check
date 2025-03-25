@@ -1,1 +1,1 @@
-b2a.kz/vul_check
+https://b2a.kz/vul_check
